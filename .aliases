@@ -1,0 +1,19 @@
+alias fr='setxkbmap fr'
+alias us='setxkbmap us'
+alias maj='sudo pacman -Syu'
+alias cleancache='sudo pacman -Scc'
+alias lrt='ls -lrt'
+alias ll='ls -al'
+alias dirs='dirs -v'
+# alias xterm='xterm -sb -sl 4000 -cr yellow -ms red -bg black -fg wheat'
+alias gli='gcloud compute instances list | sort'
+alias rake='bundle exec rake'
+alias mupdf='mupdf -C 72727e'
+alias gls="
+( \
+[ -f /tmp/machines_${GOOGLE_PROJECT}.data ] && \
+      cat /tmp/machines_${GOOGLE_PROJECT}.data) \
+|| gcloud compute instances list | tee /tmp/machines_${GOOGLE_PROJECT}.data
+"
+alias orange='sudo netctl stop-all && sudo netctl start wlp0s20u4-orange'
+alias free='sudo netctl stop-all && sudo netctl start wlp0s20u4-FreeWifi && sleep 5 && free.sh'

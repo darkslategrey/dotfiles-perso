@@ -1,0 +1,209 @@
+ssl wireshark http://www.webos-internals.org/wiki/Decrypt_SSL_(trusted_man-in-the-middle_technique)
+mass mysql update stackexchange https://dba.stackexchange.com/questions/119621/how-to-update-10-million-rows-in-mysql-single-table-as-fast-as-possible
+wiki courseur https://bitbucket.org/courseur/documentation/wiki/Home
+secrets env vars https://www.vaultproject.io/intro/getting-started/next-steps.html
+api-pro https://bitbucket.org/courseur/api-pro/pull-requests/
+wiki https://bitbucket.org/courseur/documentation/wiki/Home
+app-pro https://bitbucket.org/courseur/app-pro/pull-requests/
+reverse proxy http://www.journaldunet.com/solutions/systemes-reseaux/decryptages/07/0627-qr-reverse-proxy.shtml
+openshift ovh https://medium.com/@wilson.wilson/install-openshift-origin-on-ovh-host-32l-dedicated-server-69388478e780
+mysql replication kubernetes https://kublr.com/blog/setting-up-mysql-replication-clusters-in-kubernetes-2/
+openshift aws https://medium.com/@ngerasimatos/get-up-and-running-with-openshift-on-aws-1f8b7ab785f6
+spinnaker deploy cluster https://www.spinnaker.io/concepts/clusters/
+kubernetes start failure causes https://kukulinski.com/10-most-common-reasons-kubernetes-deployments-fail-part-1/
+openshift master nodes https://docs.openshift.org/latest/install_config/master_node_configuration.html
+ruby distance https://stackoverflow.com/questions/12966638/how-to-calculate-the-distance-between-two-gps-coordinates-without-using-google-m#12969617
+nomade cluster orchestrator https://www.nomadproject.io/intro/getting-started/install.html
+google rails jenkins packer docker https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes
+google scalable / resilient https://cloud.google.com/solutions/scalable-and-resilient-apps
+nginx proxy gcp https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
+docker nginx let's encrypt https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion
+terraform nomad google cloud https://registry.terraform.io/modules/hashicorp/nomad/google/0.0.1
+bastion gcp https://codelabs.developers.google.com/codelabs/gcp-infra-bastion-host/index.html?index=..%2F..%2Fcloud#7
+terraform registry https://registry.terraform.io/
+encrypted key https://www.yubico.com/product/security-key-by-yubico/#security-key
+gpc vpc networks https://cloud.google.com/vpc/docs/vpc
+api https://bitbucket.org/courseur/api/pull-requests/
+infra https://bitbucket.org/courseur/infra/src/master/
+jenkins docker nomad http://www.ivoverberk.nl/scalable-ci-cd-with-nomad-and-jenkins/
+traefik http://traefik.admin:8080/dashboard/
+nomad http://nomad.admin:4646/ui/jobs
+consul http://consul.admin:8500/ui/europe-west1/services/webhook
+cloud https://console.cloud.google.com/compute/instances?project=courseur-staging&authuser=1
+job luxembourg http://www.moovijob.com/company/devoteam/?event=plugdelux2018paris
+mysql gcp https://cloud.google.com/solutions/setup-mysql
+hashi porx https://docs.portworx.com/scheduler/nomad/install.html
+container registry gcp https://cloud.google.com/container-registry/docs/quickstart
+vault rails https://github.com/hashicorp/vault-rails
+vault mysql gcloud demo https://www.digitalocean.com/community/tutorials/how-to-create-a-multi-node-mysql-cluster-on-ubuntu-16-04
+consul template https://github.com/hashicorp/consul-template
+vault mysql cloud demo https://github.com/hashicorp/vault-guides/tree/master/secrets/database-mysql-gcloud-demo
+ubuntu mysql cluster https://www.digitalocean.com/community/tutorials/how-to-create-a-multi-node-mysql-cluster-on-ubuntu-16-04
+vault google cloud https://github.com/hashicorp/terraform-google-vault
+traefik consul https://blog.wescale.fr/2017/08/21/saga-de-lete-e02-decouverte-de-service-et-repartition-de-charge-multi-cloud/
+consul testing https://www.tutorialspoint.com/consul/consul_failover_events.htm
+consul security https://www.mauras.ch/securing-consul.html
+leroy-api https://bitbucket.org/courseur/leroy-merlin-api/src/develop/
+leroy api doc file:///home/greg/WORK/COURSEUR/leroy-merlin-api/docs/api-product.html#
+vault consul https://blog.wescale.fr/2017/09/18/tutoriel-vault-de-linfrastructure-as-code-a-lapplication/
+hey http bench https://github.com/rakyll/hey
+tmux https://doc.ubuntu-fr.org/tmux
+glusterfs https://www.morot.fr/un-systeme-de-fichiers-haute-disponibilite-avec-glusterfs-paru-dans-glmf-144/
+magit http://cestlaz.github.io/posts/using-emacs-47-magit/#.WxpJIU-xVpg
+docker security clair https://coreos.com/clair/docs/latest/
+docker securite francais https://blog.wescale.fr/2017/07/26/vos-conteneurs-sont-ils-faillibles-ca-sera-bientot-plus-clair/
+nomad conf exemple https://github.com/hashicorp/nomad/issues/3159
+gcp firewall https://cloud.google.com/vpc/docs/firewalls#default_firewall_rules
+terraform ref https://www.koding.com/docs/terraform/providers/google/r/compute_instance.html/
+consul gcp https://github.com/radeksimko/terraform-examples/blob/master/google-consul/main.tf
+staging cloud https://console.cloud.google.com/compute/instances?project=courseur-staging&authuser=1
+gcp scope https://cloud.google.com/sdk/gcloud/reference/alpha/compute/instances/set-scopes#--scopes
+gcp load balancer https://cloud.google.com/compute/docs/load-balancing/http/
+nomad gcloud official https://cloud.google.com/solutions/autoscaled-load-balancing-using-haproxy-and-consul-on-compute-engine
+nomad autoscaler https://help.spotinst.com/hc/en-us/articles/360000228005-Advanced-Nomad-Autoscaler-and-Constraints-
+gcp terraform github https://github.com/search?q=google_compute_instance_template&type=Code
+gcp terraform official https://cloud.google.com/community/tutorials/managing-gcp-projects-with-terraform
+codelab vids https://codelabs.developers.google.com/
+qutebrowser config https://www.reddit.com/r/qutebrowser/comments/7otpc1/switching_stylesheets_individually/
+info quantique http://www.oezratty.net/wordpress/
+nomad canary https://github.com/hashicorp/nomad/issues/2920
+terraform cloud 5 choses a savoir https://medium.com/google-cloud/five-things-learned-using-terraform-to-manage-cloud-infrastructure-5ad0d4aa0648
+mantl https://libraries.io/github/phnmnl/workflow-demo
+dns https://www.rootusers.com/12-dig-command-examples-to-query-dns-in-linux/
+devise auth token doc https://maicolben.gitbooks.io/devise-token-auth/content/docs/usage/routes.html
+jwt https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6
+gcp network security https://cloud.google.com/docs/enterprise/best-practices-for-enterprise-organizations#networking-and-security
+terraform test https://blog.gruntwork.io/open-sourcing-terratest-a-swiss-army-knife-for-testing-infrastructure-code-5d883336fcd5
+design google https://designguidelines.withgoogle.com/wearos/wear-os-by-google/designing-for-watches.html#designing-for-watches-test-designs
+lipnb https://lipn.univ-paris13.fr/27-septembre-2018-journee-intelligence-artificielle-au-lipn/
+lipn https://lipn.univ-paris13.fr/27-septembre-2018-journee-intelligence-artificielle-au-lipn/
+cv json https://bl.ocks.org/mchelen/101a42c2e433051b3f68
+opensource https://hacktoberfest.digitalocean.com/
+jmeter https://github.com/Blazemeter/taurus
+cqrs elixir phoenix https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/
+awesome elixir cqrs https://github.com/slashdotdash/awesome-elixir-cqrs
+ddd https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/
+commanded cqrs https://hexdocs.pm/commanded/choosing-an-event-store.html#postgresql-based-elixir-eventstore
+blog http://darkslategrey.github.io/
+ddd ruby https://eventide-project.org/
+hanami awesome http://awesome-hanami.org/#awesome-hanami-hanami-gem-list-cli
+ddd ruby eventide http://docs.eventide-project.org/examples/example-projects.html
+sequent https://www.sequent.io/docs/concepts/event_store.html
+sequent ddd ruby https://www.sequent.io/docs/concepts/event_store.html
+minitest https://github.com/seattlerb/minitest
+grape api http://www.ruby-grape.org/projects/
+state machine http://www.colm.net/open-source/ragel/
+graphql tuto ruby https://www.howtographql.com/graphql-ruby/0-introduction/
+bon ruby blog http://rubyblog.pro/2016/10/ruby-strategy-pattern
+nginx https://nginxconfig.io/
+proxy https://docs.mitmproxy.org/stable/tute-clientreplay/
+vim https://vim.rtorr.com/
+gcloud roles https://cloud.google.com/compute/docs/access/iam
+multi-cloud https://github.com/bcadiot/multi-cloud
+docker consul https://medium.com/zendesk-engineering/making-docker-and-consul-get-along-5fceda1d52b9
+arch data http://work.haufegroup.io/traefik/
+elm tuto great https://semaphoreci.com/community/tutorials/building-and-testing-web-applications-with-elm
+spacemacs init https://cmdln.org/2017/11/25/dot-spacemacs/
+saga pattern https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj591569(v=pandp.10)
+cqrs elixir elm https://10consulting.com/2017/01/04/building-a-cqrs-web-application-in-elixir-using-phoenix/
+elixir conduit https://leanpub.com/buildingconduit/read#leanpub-auto-authentication
+elixir good doc http://blog.songsaboutsnow.com/elixir/processes/2016/05/20/using-processes-to-hold-state.html
+elixir started https://rokobasilisk.gitbooks.io/elixir-getting-started/content/alias,_require_and_import/understanding_aliases.html
+elixir video https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ/videos
+elixir state http://blog.songsaboutsnow.com/elixir/processes/2016/05/20/using-processes-to-hold-state.html
+elm phoenix https://paulfioravanti.com/blog/2018/07/26/connecting-elm-to-phoenix-1-4-with-webpack/
+css tailwindcss https://tailwindcss.com/docs/examples/grids#automatic-column-widths
+elm graphql https://medium.com/@zenitram.oiram/a-beginners-guide-to-graphql-with-elm-315b580f0aad
+ddd ref https://blog.arkency.com/2016/05/the-anatomy-of-domain-event/
+elm bestpratice https://gist.github.com/rofrol/fd46e9570728193fddcc234094a0bd99
+elm tuto http api https://riptutorial.com/fr/elm/example/26082/elm-basic-http-post-demande-json-sur-le-serveur-express-node-js
+json elm https://package.elm-lang.org/packages/elm/json/latest/
+elm tuto 2 https://elmprogramming.com/http-requests-post.html
+elm tuto 3 https://javascriptplayground.com/json-decoding-in-elm/
+graphql elm api doc https://package.elm-lang.org/packages/dillonkearns/elm-graphql/latest/Graphql-SelectionSet
+spacemacs keybindings https://gist.github.com/robphoenix/9e4db767ab5c912fb558
+cqrs elixir conduit app https://leanpub.com/buildingconduit/read#leanpub-auto-an-aggregate
+elm archi https://paulfioravanti.com/blog/2018/03/17/graph-driven-refactoring-in-elm/
+evil doc https://huytd.github.io/emacs/dont-be-evil.html
+erlang http://erlang.org/doc/man/re.html
+current exercism https://exercism.io/my/solutions/a71bb29607c841bd8dc0620e97fe1cca
+elixir recurring job http://www.petecorey.com/blog/2017/07/17/recurring-tasks-in-elixir/
+elixir css selector https://hexdocs.pm/floki/Floki.html
+elixir ecto map type https://thoughtbot.com/blog/embedding-elixir-structs-in-ecto-models
+elixir ecto map type query https://thoughtbot.com/blog/querying-embedded-maps-in-postgresql-with-ecto
+elixir dashboard https://mux.com/blog/real-time-dashboards-powered-by-elixir/
+ecto json http://www.ubazu.com/using-postgres-jsonb-columns-in-ecto
+tailwind css templates https://www.tailwindtoolbox.com/
+html to elm https://mbylstra.github.io/html-to-elm/
+python blockchain https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
+python blockchain 2 https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+active interaction https://github.com/AaronLasseigne/active_interaction
+elastic ruby https://github.com/elastic/elasticsearch-rails
+graphql https://www.howtographql.com/basics/1-graphql-is-the-better-rest/
+color schemes http://dotshare.it/dots/8312/
+org mode use case http://members.optusnet.com.au/~charles57/GTD/gtd_workflow.html
+sway i3 https://duckduckgo.com/?q=sway+window+manager&ia=web
+cqrs ruby https://blog.arkency.com/2015/09/cqrs-example-in-the-rails-app/
+cqrs rails https://github.com/RailsEventStore/cqrs-es-sample-with-res
+layers http://spacemacs.org/layers/LAYERS.html
+org mode http://doc.norang.ca/org-mode.html#TasksAndStates
+active interaction ruby https://github.com/AaronLasseigne/active_interaction
+emacs jira https://github.com/ahungry/org-jira
+bitbucket back https://bitbucket.org/anatecteam/welearn-back/src/develop/app/actions/goals/
+emacs planner https://www.emacswiki.org/emacs/PlannerModeQuickStart
+emacs remember mode https://www.emacswiki.org/emacs/RememberMode
+graphql ruby https://graphql-ruby.org/guides
+elasticsearch 5.6 doc https://www.elastic.co/guide/en/elasticsearch/reference/5.6/index.html
+config qutebrowser https://github.com/qutebrowser/qutebrowser/blob/master/doc/help/configuring.asciidoc#configpy
+prs https://bitbucket.org/anatecteam/welearn-back/pull-requests/?state=OPEN&author=%7B076d022d-2b29-4479-9340-ea7a44c542aa%7D
+active sprint https://anatecteam.atlassian.net/secure/RapidBoard.jspa?projectKey=WEL&rapidView=17
+doom themes https://github.com/hlissner/emacs-doom-themes/tree/screenshots
+api slate https://github.com/lord/slate
+org mode cheat sheet https://emacsclub.github.io/html/org_tutorial.html
+org mode tuto http://ehneilsen.net/notebook/orgExamples/org-examples.html
+org babel https://orgmode.org/worg/org-contrib/babel/
+ob http https://github.com/zweifisch/ob-http
+org mode doc fr https://orgmode.org/worg/org-tutorials/orgtutorial_dto-fr.html
+org fr https://gitlab.com/bzg/orgguide_fr/blob/master/orgguide_fr.org
+graphql query in ruby https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer/
+rubocopfmt https://github.com/jimeh/rubocopfmt.el
+eventsource rails https://railseventstore.org/community/
+noweb https://www.cs.tufts.edu/~nr/noweb/
+vim quickref https://vimhelp.org/quickref.txt.html#quickref
+cqrs rails video 2 https://www.youtube.com/watch?v=cdwX1ZU623E
+vim tutor https://vimhelp.org/usr_02.txt.html#02.5
+ruby tech blog appsignal https://blog.appsignal.com/2019/01/29/graphql.html
+rails kafka sidekiq https://blog.appsignal.com/2019/04/23/kafka-sidekiq-ruby.html
+agoo graphql rails https://github.com/ohler55/agoo/blob/b9f6f5e64b118a77b14a0e4e1c2a84d574b803ba/misc/rails.md
+http bench prefer https://github.com/ohler55/perfer
+spacemacs conf layer perso http://thume.ca/howto/2015/03/07/configuring-spacemacs-a-tutorial/
+org mode cheatsheet https://elbauldelprogramador.com/en/org-mode-quick-cheatsheet/
+org-mode cheatsheet https://gist.github.com/drj42/1755992
+nomad tool https://github.com/seatgeek/nomad-helper
+evil guide https://github.com/noctuid/evil-guide
+ruby science http://sciruby.com/blog/2017/08/29/gsoc-2017-support-to-import-export-of-more-formats/
+ror api doc https://api.rubyonrails.org/
+offensive infra https://www.marcolancini.it/offensive-infrastructure/
+jenkins ci nomad consul traefik http://rayterrill.com/2019/04/15/Low-Friction-Container-Deployment-with-Nomad-Consul-Traefik-Jenkins-Terraform-and-Github.html
+ruby stdlib http://ruby-doc.org/stdlib-2.6.3/
+beep console https://wiki.archlinux.org/index.php/PC_speaker
+tuto minikube https://kubernetes.io/docs/tutorials/hello-minikube/
+kubernetes rails https://www.engineyard.com/blog/kubernetes-tutorial-running-a-rails-app-in-kubernetes
+rails kubernetes azure https://medium.com/@michiels/a-weekend-a-rails-app-a-kubernetes-and-an-azure-d330b003d7c2
+gcp rails kubernetes https://engineering.adwerx.com/rails-on-kubernetes-8cd4940eacbe
+postgresql kubernetes https://severalnines.com/blog/using-kubernetes-deploy-postgresql
+postman to openapi 3.0 https://www.apimatic.io/transformer
+zero openapi https://github.com/zhandao/zero-rails_openapi#trick1---write-the-dsl-somewhere-else
+identity production https://spiffe.io/
+config xorg https://wiki.ubuntu.com/X/Config/Resolution
+xorg conf https://wiki.ubuntu.com/X/Config/Resolution
+helm doc https://www.jfrog.com/confluence/display/RTF/Helm+Chart+Repositories
+helm github page https://tech.paulcz.net/blog/creating-a-helm-chart-monorepo-part-1/
+helm local registry https://sethlakowske.com/articles/howto-local-minikube-registry/
+minikube local registry https://blog.hasura.io/sharing-a-local-registry-for-minikube-37c7240d0615/
+k8 local dev env https://www.abhishek-tiwari.com/local-development-environment-for-kubernetes-using-minikube/
+local dev kube https://kind.sigs.k8s.io/docs/user/quick-start
+k3s doc https://rancher.com/docs/k3s/latest/en/
+k3s localdev https://felixwiedmann.de/k3d-manage-k3s-clusters/
+kubernetes local dev tools https://github.com/yogeek/kubernetes-local-development
+kube ingress https://danielfm.me/posts/painless-nginx-ingress.html
