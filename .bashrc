@@ -44,7 +44,7 @@ if [ -f '/home/greg/SOFTS/google-cloud-sdk/path.bash.inc' ]; then source '/home/
 if [ -f '/home/greg/SOFTS/google-cloud-sdk/completion.bash.inc' ]; then source '/home/greg/SOFTS/google-cloud-sdk/completion.bash.inc'; fi
 
 export GOOGLE_APPLICATION_CREDENTIALS=/home/greg/.config/gcloud/terraform.json
-export GOOGLE_PROJECT=$(gcloud config get-value project)
+# export GOOGLE_PROJECT=$(gcloud config get-value project)
 
 export VAULT_ADDR=http://127.0.0.1:8200
 
