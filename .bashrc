@@ -24,9 +24,9 @@ nvm use v10.5.0
 
 # export ANDROID_HOME=/opt/android-sdk
 export ANDROID_HOME=/home/greg/Android/Sdk
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
+# export JAVA_HOME=/usr/lib/jvm/java-8-openjdk
 
-export PATH=$JAVA_HOME/bin:$PATH
+# export PATH=$JAVA_HOME/bin:$PATH
 
 # export JAVA_HOME=/opt/android-studio/jre
 # export PATH=$ANDROID_HOME/bin:$JAVA_HOME/bin:$PATH
@@ -75,5 +75,12 @@ export STAGING_CREDS=/home/greg/devops/infra-staging/10-build-image/key_staging.
 #     ~/bin/cloud_sql_proxy -credential_file=$PROD_CREDS -dir=/cloudsql-prod -instances=courseur-prod:europe-west2:prod-mysql &
 # fi
 
+## Anaconda
+# source /opt/anaconda/bin/activate root
+# source /opt/anaconda/bin/deactivate root
+
+
 export GITLAB_TOKEN=""
 . ~/.aliases
+
+unset RBENV_VERSION

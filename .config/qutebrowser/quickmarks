@@ -207,3 +207,7 @@ k3s doc https://rancher.com/docs/k3s/latest/en/
 k3s localdev https://felixwiedmann.de/k3d-manage-k3s-clusters/
 kubernetes local dev tools https://github.com/yogeek/kubernetes-local-development
 kube ingress https://danielfm.me/posts/painless-nginx-ingress.html
+react rails tuto https://www.digitalocean.com/community/tutorials/how-to-set-up-a-ruby-on-rails-project-with-a-react-frontend
+eventide http://docs.eventide-project.org/core-concepts/streams/stream-names.html#entity-stream-name
+rails challenge https://gist.github.com/tadast/5642683
+pubsub rails https://www.toptal.com/ruby-on-rails/the-publish-subscribe-pattern-on-rails
